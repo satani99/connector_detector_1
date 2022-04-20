@@ -26,7 +26,7 @@ With the parameters set, started training.
 
 # Exporting the model
 
-After training is complpeted, I exported the model. Converted the training checkpoints to
+After training is completed, I exported the model. Converted the training checkpoints to
 a protobuf(pb) file.
 
 # Deploying the model
